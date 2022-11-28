@@ -23,3 +23,17 @@ body {
   vertical-align: top;
   justify-items: auto;
 }
+
+a,
+a:visited
+h1,
+h2,
+h3,
+p {
+  background-color: rgb(24, 24, 24);
+  width: fit-content;
+  margin: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+  color: white
+}
