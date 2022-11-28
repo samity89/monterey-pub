@@ -10,3 +10,16 @@ body {
   background-position-y: center;
   color: white
 }
+
+.card {
+  border: grey solid 1px;
+  padding: 1rem;
+  width: 15rem;
+  height: 10rem;
+  display: inline-grid;
+  margin: 1rem 1rem;
+  box-shadow: 3px 4px #4be06bbe;
+  background-color: rgb(24, 24, 24);
+  vertical-align: top;
+  justify-items: auto;
+}
