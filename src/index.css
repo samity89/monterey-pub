@@ -37,3 +37,13 @@ p {
   padding-right: 20px;
   color: white
 }
+
+table, td, th{
+  margin: auto;
+  border-color: white;
+  border: 1px solid;
+  border-collapse: collapse;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: rgb(24, 24, 24);
+}
