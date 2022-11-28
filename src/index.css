@@ -47,3 +47,11 @@ table, td, th{
   padding-right: 10px;
   background-color: rgb(24, 24, 24);
 }
+
+.textContainer {
+  background-color: rgb(24, 24, 24);
+  width: 80%;
+  margin: auto;
+  padding: 1%;
+  padding-bottom: 5%;
+}
