@@ -2,6 +2,7 @@ import React from "react";
 
 function Home() {
   return <div className="textContainer">
+    <img src="https://static.wixstatic.com/media/7ee5e9_6f183bbd75e140e1af718a27f793e87e~mv2.png" alt="Monterey Pub"/>
     <h2>
       1227 Monterey Street<br/>
       Pittsburgh PA 15212
