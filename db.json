@@ -1,0 +1,281 @@
+{
+  "menu": {
+    "food": {
+      "appetizers": [
+        {
+          "id": 1,
+          "name": "Celestial Eggs",
+          "description": "our House Deviled Eggs, garnished with scallion and bacon"
+        },
+        {
+          "id": 2,
+          "name": "Onion Rings",
+          "description": "thick beer battered onion rings served with our golden mustard"
+        },
+        {
+          "id": 3,
+          "name": "Pub Cheese and Pretzels",
+          "description": "oven baked pretzel nuggets with a health portiony of our house Pub Cheese Dip"
+        },
+        {
+          "id": 4,
+          "name": "Mozzarella Sticks",
+          "description": "fried mozzarella sticks with a great cheese pull and marinara sauce"
+        },
+        {
+          "id": 5,
+          "name": "Chicken Wings",
+          "description": "three full wings; smoked and flash fried.  choice of garlic parmesan or spicy blueberry BBQ."
+        }
+      ],
+      "flatbreads": [
+        {
+          "id": 1,
+          "name": "The Veg Head",
+          "description": "our roasted vegetable medley"
+        },
+        {
+          "id": 2,
+          "name": "The Meaty Boy",
+          "description": "pepperoni, sausage, bacon"
+        },
+        {
+          "id": 3,
+          "name": "Blanco",
+          "description": "provolone, mozzarella, goat Cheese"
+        },
+        {
+          "id": 4,
+          "name": "Margherita",
+          "description": "tomato, basil, mozzarella, garlic oil"
+        }
+      ],
+      "sammiches": [
+        {
+          "id": 1,
+          "name": "Beer Battered Fish",
+          "description": "romaine, pickles, american cheese, tartar sauce"
+        },
+        {
+          "id": 2,
+          "name": "Reuben",
+          "description": "house roasted corn beef, sauerkraut, swiss cheese, 1000 island"
+        },
+        {
+          "id": 3,
+          "name": "Rachel",
+          "description": "house roasted turkey, cole slaw, swiss cheese, 1000 island"
+        },
+        {
+          "id": 4,
+          "name": "Turkey Club",
+          "description": "romaine, tomato, bacon, provolone, roasted garlic lemon aioli"
+        },
+        {
+          "id": 5,
+          "name": "Braised Chicken Sandwich",
+          "description": "spinach, red onion, parmesan crisp, cheddar, gold bbq sauce, roasted garlic lemon aioli"
+        },
+        {
+          "id": 6,
+          "name": "Chicken Pita",
+          "description": "braised chicken, cucumber, tomato, feta cheese, cucumber crema"
+        },
+        {
+          "id": 7,
+          "name": "Spicy Garden Pita",
+          "description": "portobello, onion, bell pepper, cucumber, spicy tomato hummus"
+        }
+      ],
+      "burgers": [
+        {
+          "id": 1,
+          "name": "The Classic",
+          "description": "lettuce, tomato, pickle, onion, american cheese, roasted garlic lemon aioli"
+        },
+        {
+          "id": 2,
+          "name": "The Monterey",
+          "description": "spinach, tomato, pickle, cheddar cheese, creole mustard"
+        },
+        {
+          "id": 3,
+          "name": "All of the Beef BBQ",
+          "description": "braised beef, bacon, provolone cheese, onion ring, bbq sauce"
+        },
+        {
+          "id": 4,
+          "name": "Swisshroom",
+          "description": "mushroom, onion, swiss, roasted garlic lemon aioli"
+        }
+      ],
+      "entrees": [
+        {
+          "id": 1,
+          "name": "Fish and Chips",
+          "description": "Beer battered cod and curly fries.  Garnished with lemon, coleslaw, and tartar sauce"
+        },
+        {
+          "id": 2,
+          "name": "Shepherd's Pie",
+          "description": "Guinness braised beef, corn, peas, mashed potato, cheddar, gravy"
+        },
+        {
+          "id": 3,
+          "name": "Stoner Bowl",
+          "description": "dino chicken nuggets, corn, peas, mashed potato, cheddar, gravy"
+        },
+        {
+          "id": 4,
+          "name": "Salmon and Mashed",
+          "description": "balsamic honey-glazed salmon, mashed potatoes, roasted vegetable medley"
+        },
+        {
+          "id": 5,
+          "name": "Bangers and Mashed",
+          "description": "Irish sausage, mashed potatoes, served with a side of onion gravy"
+        }
+      ],
+      "salads": [
+        {
+          "id": 1,
+          "name": "Fall Salad",
+          "description": "arugula, feta cheese, sliced apple, pepitas, butternut squash, apple cider vinaigrette"
+        },
+        {
+          "id": 2,
+          "name": "Pub Salad",
+          "description": "spinach, romaine, cucumber, carrot, onion, tomato, croutons, feta cheese"
+        }
+      ],
+      "kids": [
+        {
+          "id": 1,
+          "name": "Cheeseburger",
+          "description": "A single patty with American cheese"
+        },
+        {
+          "id": 2,
+          "name": "Grilled Cheese",
+          "description": "Four cheeses on grilled texas"
+        },
+        {
+          "id": 3,
+          "name": "Dino Nuggets",
+          "description": "Dinosaur shaped chicken nuggets"
+        },
+        {
+          "id": 4,
+          "name": "Fish Sticks",
+          "description": "Fried cod"
+        }
+      ],
+      "sides": [
+        {
+          "id": 1,
+          "name": "Chips",
+          "description": "seasoned curly fries"
+        },
+        {
+          "id": 2,
+          "name": "Mashed Potatoes",
+          "description": "Irish style skin-on mashed potatoes"
+        },
+        {
+          "id": 3,
+          "name": "Side Salad",
+          "description": "spinach, romaine, cucumber, tomato, carrot, onion"
+        },
+        {
+          "id": 4,
+          "name": "Roasted Vegetable Medley",
+          "description": "broccoli, cauliflower, bell pepper, onion, carrot, garlic"
+        }
+      ]
+    },
+    "cocktails": [
+      {
+        "id": 1,
+        "name": "Filson",
+        "ingredients": "rum, pear liqueur, cinnamon, lemon"
+      },
+      {
+        "id": 2,
+        "name": "Veto",
+        "ingredients": "vodka, Italicus, Super Punch, lime, pomegranate"
+      },
+      {
+        "id": 3,
+        "name": "Alpine",
+        "ingredients": "gin, thyme liqueur, olive juice"
+      },
+      {
+        "id": 4,
+        "name": "West North",
+        "ingredients": "cognac, Apple Jack, brandy, Luxardo Cherry, Peychaud's, Angostura Bitters, absinthe"
+      },
+      {
+        "id": 5,
+        "name": "Monterey",
+        "ingredients": "Irish whiskey, Irish meade, Tuaca, cayenne, honey, Angostura Bitters"
+      },
+      {
+        "id": 6,
+        "name": "Wolfrum",
+        "ingredients": "mezcal, tequila, spiced pumpkin, apple cider, lime"
+      },
+      {
+        "id": 7,
+        "name": "Y.M.C.A.",
+        "ingredients": "rye, Cynar, Drambuie, almond, maple, vanilla"
+      },
+      {
+        "id": 8,
+        "name": "Day Way",
+        "ingredients": "gin, Gran Gala, Spanish liqueur, cranberry, lemon"
+      }
+    ],
+    "beer": [
+      {
+        "id": 1,
+        "name": "Einbecker German Pilsner",
+        "abv": "4.8%"
+      },
+      {
+        "id": 2,
+        "name": "Guinness",
+        "abv": "4.2%"
+      },
+      {
+        "id": 3,
+        "name": "Smithwicks",
+        "abv": "3.8%"
+      },
+      {
+        "id": 4,
+        "name": "IC Light",
+        "abv": "4.2%"
+      },
+      {
+        "id": 5,
+        "name": "Arsenal Snowbound Cinnamon Cider",
+        "abv": "8.5%"
+      },
+      {
+        "id": 6,
+        "name": "Great Lakes Oatmeal Stout",
+        "abv": "5.4%"
+      },
+      {
+        "id": 7,
+        "name": "Grist House Chameleon NE IPA",
+        "abv": "6.4%"
+      },
+      {
+        "id": 8,
+        "name": "Hop Farm Ghost Cowboy IPA",
+        "abv": "6.5%"
+      }
+    ]
+  }
+}
