@@ -11,4 +11,15 @@ function CocktailCard({cocktail}) {
   );
 }
 
-export {CocktailCard};
+function BeerCard({beer}) {
+  const {name, abv} = beer
+
+  return (
+    <div className="card">
+      <h3>{name}</h3>
+      <p>{abv}</p>
+    </div>
+  );
+}
+
+export {CocktailCard, BeerCard};
