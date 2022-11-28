@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: 'Courier New';
+  text-align: center;
+  background-color:#026919be;
+  background-image: url(./pub.jpg);
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-attachment: fixed;
+  background-position-y: center;
+  color: white
+}
