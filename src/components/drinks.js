@@ -19,9 +19,9 @@ function Drinks({ cocktails, beer }) {
     <div>
       <h1>Drinks</h1> 
       <h2>Cocktails</h2>
-      <div id="cocktailContainer">{renderCocktails}</div>
+      <div id="cardContainer">{renderCocktails}</div>
       <h2>Draft Beer</h2>
-      <div id="beerContainer">{renderBeer}</div>
+      <div id="cardContainer">{renderBeer}</div>
     </div>
     );
 }
