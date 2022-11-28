@@ -277,5 +277,17 @@
         "abv": "6.5%"
       }
     ]
-  }
+  },
+  "users": [
+    {
+      "id": 1,
+      "username": "Vila la Bob",
+      "userEmail": "homeagain@gmail.com"
+    },
+    {
+      "id": 2,
+      "username": "Buzz",
+      "userEmail": "infinity@andbeyond.com"
+    }
+  ]
 }
