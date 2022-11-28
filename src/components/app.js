@@ -8,6 +8,18 @@ import Contact from "./contact";
 
 
 function App() {
+  const [food, setFood] = useState([])
+  const [cocktails, setCocktails] = useState([])
+  const [beer, setBeer] = useState([])
+
+  useEffect(() => {
+    fetch("http://localhost:3001/menu")
+    .then((response) => response.json())
+    .then((data) => {
+      setFood(data.food)
+      setBeer(data.beer)
+      setCocktails(data.cocktails)
+    })}, [])
   
   return ( 
     <div>
